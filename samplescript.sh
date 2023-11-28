@@ -16,4 +16,5 @@ echo " <!DOCTYPE html>
 </html> " >> index.html
 cat index.html
 echo " my bash script successfully worked"
+echo " build configured to auto build "
 
